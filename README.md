@@ -1,16 +1,13 @@
-## Hi there 👋
+# Xổ Số Miền Nam
 
-<!--
-**xosomienamcc/xosomienamcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Đây là kênh GitHub của [Xổ Số Miền Nam](https://xosomienam.cc/), website hỗ trợ tra cứu kết quả xổ số theo khu vực, lịch mở thưởng và các thông tin liên quan.
 
-Here are some ideas to get you started:
+## Tra cứu kết quả
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [XSMN - Xổ số miền Nam](https://xosomienam.cc/)
+- [XSMB - Xổ số miền Bắc](https://xosomienam.cc/xsmb-xo-so-mien-bac/)
+- [XSMT - Xổ số miền Trung](https://xosomienam.cc/xsmt-xo-so-mien-trung/)
+
+## Website
+
+Truy cập: [https://xosomienam.cc/](https://xosomienam.cc/)
